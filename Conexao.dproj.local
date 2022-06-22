@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/04/05 10:16:09.000.220,=C:\Users\João Vitor\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/05 10:16:49.000.765,C:\projetos\Conexao\Unit1.dfm=C:\Users\João Vitor\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/04/05 10:16:49.000.765,C:\projetos\Conexao\Unit1.pas=C:\Users\João Vitor\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/05 10:16:52.000.516,C:\projetos\Conexao\Conexao.dproj=C:\Users\João Vitor\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/04/05 15:02:17.000.381,=C:\projetos\Conexao\Unit2.pas</Transaction>
+    <Transaction>2022/04/05 15:02:27.000.096,C:\projetos\Conexao\uCadPessoa.dfm=C:\projetos\Conexao\Unit2.dfm</Transaction>
+    <Transaction>2022/04/05 15:02:27.000.096,C:\projetos\Conexao\uCadPessoa.pas=C:\projetos\Conexao\Unit2.pas</Transaction>
+    <Transaction>2022/04/05 15:15:21.000.015,=C:\projetos\Conexao\Unit2.pas</Transaction>
+    <Transaction>2022/04/05 15:15:56.000.513,C:\projetos\Conexao\UDtmPessoa.dfm=C:\projetos\Conexao\Unit2.dfm</Transaction>
+    <Transaction>2022/04/05 15:15:56.000.513,C:\projetos\Conexao\UDtmPessoa.pas=C:\projetos\Conexao\Unit2.pas</Transaction>
+    <Transaction>2022/04/05 15:16:25.000.874,=C:\projetos\Conexao\Unit2.pas</Transaction>
+    <Transaction>2022/04/05 15:16:43.000.734,C:\projetos\Conexao\UdmConexao.dfm=C:\projetos\Conexao\Unit2.dfm</Transaction>
+    <Transaction>2022/04/05 15:16:43.000.734,C:\projetos\Conexao\UdmConexao.pas=C:\projetos\Conexao\Unit2.pas</Transaction>
+    <Transaction>2022/04/05 15:17:07.000.614,C:\projetos\Conexao\UdmPessoa.pas=C:\projetos\Conexao\UDtmPessoa.pas</Transaction>
+    <Transaction>2022/04/05 15:17:07.000.614,C:\projetos\Conexao\UdmPessoa.dfm=C:\projetos\Conexao\UDtmPessoa.dfm</Transaction>
+    <Transaction>2022/04/05 15:22:03.000.661,=C:\projetos\Conexao\Unit2.pas</Transaction>
+    <Transaction>2022/04/05 15:22:20.000.854,C:\projetos\Conexao\UPesqPessoa.pas=C:\projetos\Conexao\Unit2.pas</Transaction>
+    <Transaction>2022/04/05 15:22:20.000.854,C:\projetos\Conexao\UPesqPessoa.dfm=C:\projetos\Conexao\Unit2.dfm</Transaction>
+    <Transaction>2022/04/05 17:19:51.000.794,=C:\projetos\Conexao\Unit2.pas</Transaction>
+    <Transaction>2022/04/05 17:20:29.000.234,C:\projetos\Conexao\uPesquisaCidade.dfm=C:\projetos\Conexao\Unit2.dfm</Transaction>
+    <Transaction>2022/04/05 17:20:29.000.234,C:\projetos\Conexao\uPesquisaCidade.pas=C:\projetos\Conexao\Unit2.pas</Transaction>
+    <Transaction>2022/04/05 17:57:55.000.452,=C:\projetos\Conexao\Unit2.pas</Transaction>
+    <Transaction>2022/04/05 17:58:10.000.906,C:\projetos\Conexao\UdmCidade.pas=C:\projetos\Conexao\Unit2.pas</Transaction>
+    <Transaction>2022/04/05 17:58:10.000.906,C:\projetos\Conexao\UdmCidade.dfm=C:\projetos\Conexao\Unit2.dfm</Transaction>
+    <Transaction>2022/04/06 22:05:29.000.839,=C:\projetos\Conexao\Unit2.pas</Transaction>
+    <Transaction>2022/04/06 22:05:40.000.908,C:\projetos\Conexao\uCadCidade.pas=C:\projetos\Conexao\Unit2.pas</Transaction>
+    <Transaction>2022/04/06 22:05:40.000.908,C:\projetos\Conexao\uCadCidade.dfm=C:\projetos\Conexao\Unit2.dfm</Transaction>
+    <Transaction>2022/04/20 17:01:36.000.830,=C:\projetos\Conexao\Unit2.pas</Transaction>
+    <Transaction>2022/04/20 17:04:53.000.744,C:\projetos\Conexao\Unit2.pas=C:\projetos\Armazem\source\Controller\uPessoa.pas</Transaction>
+    <Transaction>2022/06/21 09:01:21.840,=C:\projetos\Conexao\Unit2.pas</Transaction>
+    <Transaction>2022/06/21 09:01:55.141,C:\projetos\Conexao\uLogin.dfm=C:\projetos\Conexao\Unit2.dfm</Transaction>
+    <Transaction>2022/06/21 09:01:55.141,C:\projetos\Conexao\uLogin.pas=C:\projetos\Conexao\Unit2.pas</Transaction>
+    <Transaction>2022/06/21 09:10:35.093,C:\projetos\Conexao\Unit1.pas=</Transaction>
+    <Transaction>2022/06/21 09:11:13.142,=C:\projetos\Conexao\uHome.pas</Transaction>
+    <Transaction>2022/06/21 14:44:15.627,=C:\projetos\Conexao\Unit1.pas</Transaction>
+    <Transaction>2022/06/21 14:44:38.386,C:\projetos\Conexao\uGlobal.pas=C:\projetos\Conexao\Unit1.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="C:\projetos"/>
+    <File Path="..\Armazem"/>
+    <File Path="..\Armazem\source"/>
+    <File Path="..\Armazem\source\Controller"/>
+    <File Path="..\Armazem\source\Controller\uPessoa.pas"/>
+    <File Path="uCadPessoa.pas"/>
+    <File Path="uCadPessoa.dfm"/>
+    <File Path="UdmCidade.pas"/>
+    <File Path="UdmCidade.dfm"/>
+    <File Path="UdmConexao.pas"/>
+    <File Path="UdmConexao.dfm"/>
+    <File Path="UdmPessoa.pas"/>
+    <File Path="UdmPessoa.dfm"/>
+    <File Path="UPesqPessoa.pas"/>
+    <File Path="UPesqPessoa.dfm"/>
+    <File Path="uPesquisaCidade.pas"/>
+    <File Path="uPesquisaCidade.dfm"/>
+    <File Path="uCadCidade.pas"/>
+    <File Path="uCadCidade.dfm"/>
+    <File Path="uLogin.pas"/>
+    <File Path="uLogin.dfm"/>
+    <File Path="uHome.pas"/>
+    <File Path="uHome.dfm"/>
+    <File Path="uGlobal.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
